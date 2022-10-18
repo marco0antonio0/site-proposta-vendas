@@ -1,0 +1,73 @@
+/* ====================================================== */
+.b1{
+    height: 100px;
+    margin-bottom: 5px;
+}
+.b1 h1{
+    margin: auto;
+    color: black;
+}
+.b1 div{
+    margin: auto auto 10px 0;
+    width: 500px;
+}
+.b1 a{
+    
+    text-decoration: none;
+    color: black;
+    margin:auto auto auto auto;
+}
+/* ====================================================== */
+.b2{
+    height: auto;
+    margin-bottom: 5px;
+}
+.b2 .p1{
+    width: 50%;
+    align-items: center;
+    margin:0 auto auto auto;
+}
+.b2 .p1 .t1{
+    margin:0 auto auto auto;
+    color: rgba(229, 152, 138, 1);
+}
+.b2 .p1 .t2{
+    color: rgba(229, 152, 138, 1);
+
+}
+.b2 .p1 div{
+    width: 500px;
+    margin: auto auto auto auto;
+}
+.b2 .p1 .t3{
+    color: rgba(0, 0, 0, 0.38);
+}
+.b2 .p2{
+    align-items: center;
+    width: 50%;
+    margin: auto;
+}
+.b2 .p2 img{
+    height: auto;
+    width: 300px;
+}
+/* ====================================================== */
+.b3{
+    height: auto;
+    max-width: 700px;
+    margin-bottom: 5px;
+    margin: auto;
+}
+.b3 h1{
+    color: rgba(229, 152, 138, 1);
+    margin: 5px auto 20px auto;
+}
+.b3 p{
+    font-size: 25px;
+}
+/* ====================================================== */
+.bf{
+    height: 100px;
+    background-color: black;
+    margin-top: 20px;
+}
